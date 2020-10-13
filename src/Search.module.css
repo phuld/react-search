@@ -1,0 +1,20 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    max-width: 650px;
+    margin: auto;
+}
+
+.search {
+    width: 100%;
+    display: block;
+}
+
+.list {
+    max-width: 650px;
+    margin: auto;
+}
+
+.header {
+    margin-bottom: 5px;
+}
